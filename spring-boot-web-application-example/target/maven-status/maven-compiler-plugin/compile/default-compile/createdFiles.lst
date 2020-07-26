@@ -1,0 +1,6 @@
+com\example\test\service\CommonEntiesService.class
+com\example\test\CURDOperation.class
+com\example\test\model\Location.class
+com\example\test\repositry\LocationRepositry.class
+com\example\test\controller\CommonEntiesController.class
+com\example\test\exception\RecordNotFoundException.class
